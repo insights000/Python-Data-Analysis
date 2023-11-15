@@ -17,6 +17,8 @@ The dataset in question was regarding the economical data based on quantity, uni
 
 
 
+
+
 ![Python Task 3](https://github.com/insights000/Python-Data-Analysis/assets/150028138/029b8106-19e0-4968-bc04-3695ca0178b8)
 
 
@@ -26,7 +28,26 @@ The dataset in question was regarding the economical data based on quantity, uni
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/insights000/Python-Data-Analysis/assets/150028138/bbde6360-8eba-4d22-8b39-f4e272f6e048)
+
+
+
+
 
 
 
