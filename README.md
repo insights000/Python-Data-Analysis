@@ -7,6 +7,8 @@
 
 The dataset in question was regarding the economical data based on quantity, unit price as well as other datasets. Using Pandas we can prompt the code to return back certain pieces of data that would be useful for analysis as I done in this exercise.
 **
+
+**DATA ANALYSIS WITH PYTHON PANDAS**
 **EXAMPLES BELOW****
 
 ![Python Task 2](https://github.com/insights000/Python-Data-Analysis/assets/150028138/10d4cc25-1fd9-4385-ae81-8c91450e089a)
@@ -14,7 +16,11 @@ The dataset in question was regarding the economical data based on quantity, uni
 
 
 
+
 ![Python Task 3](https://github.com/insights000/Python-Data-Analysis/assets/150028138/029b8106-19e0-4968-bc04-3695ca0178b8)
+
+
+
 
 
 
